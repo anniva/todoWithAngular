@@ -1,0 +1,36 @@
+{
+  "name": "todowithangular",
+  "version": "1.0.0",
+  "description": "angular",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "jasmine-core": "^2.3.4",
+    "karma": "^0.12.37",
+    "karma-chrome-launcher": "^0.2.0",
+    "karma-jasmine": "^0.3.6",
+    "karma-requirejs": "^0.2.2",
+    "requirejs": "^2.1.18",
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anniva/todoWithAngular.git"
+  },
+  "keywords": [
+    "angular",
+    "todo"
+  ],
+  "author": "annica",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anniva/todoWithAngular/issues"
+  },
+  "homepage": "https://github.com/anniva/todoWithAngular#readme"
+}
